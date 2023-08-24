@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Multi-Threading-Mini-Projects.iml" filepath="$PROJECT_DIR$/Multi-Threading-Mini-Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pattern-Search/Pattern-Search.iml" filepath="$PROJECT_DIR$/Pattern-Search/Pattern-Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Summation-Array/Summation-Array.iml" filepath="$PROJECT_DIR$/Summation-Array/Summation-Array.iml" />
     </modules>
   </component>
 </project>
